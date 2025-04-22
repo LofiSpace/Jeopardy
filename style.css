@@ -66,6 +66,11 @@
 
 #game {
    color: white;
+
+}
+
+.categoryTitle{
+    color: white;
 }
 
 #jeopardy td.complete{
